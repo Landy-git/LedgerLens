@@ -1,0 +1,7 @@
+streamlit>=1.40
+langchain>=1.0
+langchain-core>=1.0
+langchain-openai>=1.0
+pymupdf>=1.24
+pillow>=10.0
+python-dotenv>=1.0
